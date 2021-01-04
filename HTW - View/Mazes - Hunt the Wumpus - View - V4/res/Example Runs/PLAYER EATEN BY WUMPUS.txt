@@ -1,0 +1,66 @@
+Enter the type of Maze to Play: (String) 
+ p (Perfect)
+ np (Non Perfect)
+
+p
+
+You have selected Perfect Maze
+
+
+ Enter the Sub-type of Maze to Play: (String) 
+ w (Wrapping)
+ nw (Non Wrapping)
+
+w
+
+You have selected Wrapping Maze
+
+
+ Enter the number of rows: r (Integer) and number of columns: c (Integer) 
+
+3
+4
+
+Wumpus game will be generated! 
+
+Wumpus game generated!
+
+ Enter the percentage of Super Bats (0 - 40) and Percentage of Bottomless pits (0 - 30)
+
+10
+10
+
+Wumpus game Objects will be initialized! 
+
+Wumpus game Objects initialized! 
+
+You are currently in: 
+CAVE (2, 1) Tunnels lead to the W,S,N
+s (Shoot) or m (Move): 
+m
+Enter your choice of actions!
+[West, South, North]
+n
+You are currently in: 
+CAVE (2, 0) You smell a Wumpus nearby!  Tunnels lead to the W,S,E
+s (Shoot) or m (Move): 
+m
+Enter your choice of actions!
+[West, South, East]
+w
+You are currently in: 
+CAVE (1, 0) Tunnels lead to the E
+s (Shoot) or m (Move): 
+m
+Enter your choice of actions!
+[East]
+e
+You are currently in: 
+CAVE (2, 0) You smell a Wumpus nearby!  Tunnels lead to the W,S,E
+s (Shoot) or m (Move): 
+m
+Enter your choice of actions!
+[West, South, East]
+e
+Player got eaten by the Wumpus...Game Over!
+CAVE (3, 0) Tunnels lead to the W
